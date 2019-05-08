@@ -27,7 +27,7 @@
       echo $custom_css;
     ?>
   </head>
-  <body class="skin-red sidebar-collapse fixed">
+  <body class="skin-blue sidebar-collapse fixed">
     <div class="wrapper">
     <?=$head_navbar?>
     

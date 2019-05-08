@@ -60,7 +60,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 
 $username = "root";
-$password = "";
+$password = "qwerty";
 $forecasting = "forecasting";
 
 
