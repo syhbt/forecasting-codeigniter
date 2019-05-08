@@ -1,0 +1,31 @@
+  .categorychecklist, .children{
+    list-style: none;
+  }
+  #categorychecklist{
+    padding-left: 0px;
+  }
+  #categorychecklist ul li label,#categorychecklist li label{
+    font-weight: normal;
+    cursor: pointer;
+    display: block;
+    margin-bottom: 0px;
+    border: solid 1px #fff;
+    font-size: 13px;
+    padding-left: 5px;
+    transition: all 0.5s ease;
+  }
+  #categorychecklist ul li label:hover,#categorychecklist li label:hover{
+    border: solid 1px #3c8dbc;
+  }
+  #category-all{
+    display: block;
+    height: 250px;
+    overflow: auto;
+    border: solid 1px #eee;
+    padding: 5px;
+  }
+  
+  .error-form-post{
+    color: red;
+    font-size: 20px;
+}
