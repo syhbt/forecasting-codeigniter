@@ -1,2 +1,0 @@
-[14-Sep-2015 11:41:01 Asia/Jakarta] PHP Fatal error:  Can't use method return value in write context in /home/ferdifia/public_html/greensoul.admin/application/controllers/Post.php on line 486
-[14-Sep-2015 11:41:39 Asia/Jakarta] PHP Fatal error:  Can't use method return value in write context in /home/ferdifia/public_html/greensoul.admin/application/controllers/Post.php on line 486
